@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<methodCall>
+    <methodName>CDR</methodName>
+    <params>
+        <param>
+            <value>
+                <struct>
+                    <member>
+                        <name>caller</name>
+                        <value>
+                            <string>0506661717</string>
+                        </value>
+                    </member>
+                    <member>
+                        <name>target</name>
+                        <value>
+                            <string>0506661717</string>
+                        </value>
+                    </member>
+                    <member>
+                        <name>time</name>
+                        <value>
+                            <i8>1345373417</i8>
+                        </value>
+                    </member>
+                    <member>
+                        <name>duration</name>
+                        <value>
+                            <i4>12</i4>
+                        </value>
+                    </member>
+
+                    <member>
+                        <name>ivruniqueid</name>
+                        <value>
+                            <string>sdfsdfsdfsfsf</string>
+                        </value>
+                    </member>
+                    <member>
+                        <name>targetextension</name>
+                        <value>
+                            <string />
+                        </value>
+                    </member>
+                    <member>
+                        <name>callerextension</name>
+                        <value>
+                            <string>IuYtReWq</string>
+                        </value>
+                    </member>
+                    <member>
+                        <name>did</name>
+                        <value>
+                            <string />
+                        </value>
+                    </member>
+                    <member>
+                        <name>queueid</name>
+                        <value>
+                            <i4>0</i4>
+                        </value>
+                    </member>
+                    <member>
+                        <name>queuename</name>
+                        <value>
+                            <string />
+                        </value>
+                    </member>
+                    <member>
+                        <name>type</name>
+                        <value>
+                            <string>Extension Outgoing
+                            </string>
+                        </value>
+                    </member>
+                    <member>
+                        <name>status</name>
+                        <value>
+                            <string>ANSWER</string>
+                        </value>
+                    </member>
+                </struct>
+            </value>
+        </param>
+    </params>
+</methodCall>
